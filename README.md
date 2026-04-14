@@ -2,9 +2,12 @@
 ## Active Directory Exploitation and SYSTEM Compromise  
 
 ---
-
+ 
 ## Medium Blog  
-(Add your Medium link here if you publish this writeup)
+
+A detailed explanation of this lab, including methodology and reasoning, is available on Medium:
+
+https://medium.com/@tusharmumbre/tryhackme-medium-windows-ad-writeup-71981f81da02  
 
 ---
 
